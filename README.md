@@ -2,7 +2,7 @@
 
 Play additive synthesis with your body. Each partial (sine wave) gets a zone of the camera picture, and how much you move in that zone sets how loud it is. An adjustable cycle timer records your movement and loops it, and instrument presets reshape the partials' frequencies and amplitudes.
 
-**Live app:** https://YOUR-USERNAME.github.io/motion-partials/
+**Live app:** https://viela-la.github.io/motion-partials/
 
 ## Features
 
